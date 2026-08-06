@@ -1,6 +1,6 @@
 # Volt.lol
 
-## :video_game: Supported Games
+## Supported Games
 * Gorilla Tag
 * Animal Company
 * OG Fun Monkey Horror
